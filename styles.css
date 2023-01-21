@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-color: #8EA7E9;
 }
 .home{
     display: inline-block;
@@ -190,3 +191,31 @@ body{
 
     font-size: 23px;
   }
+.major{
+    text-align: center
+}
+.shrikrishna{
+    width: 400px;
+    border-radius: 25px;
+
+}
+.brahmasarovar{
+    width: 500px;
+    border-radius: 25px;
+}
+.sarveshwar{
+    width: 400px;
+    border-radius: 25px;
+}
+.download{
+    width: 400px;
+    border-radius: 25px;
+}
+.iskcon{
+    width: 400px;
+    border-radius: 25px;
+}
+.opjindal{
+    width: 400px;
+    border-radius: 25px;
+}
